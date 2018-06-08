@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+<published>Pt, cze 8, '18</published>
+<file name=".classpath">
+<hash type="md5">acc9524a3076a3433a7850d818a659de</hash>
+<size>468</size>
+<url>example-url.gov.pl/.classpath</url>
+</file>
+<file name="suggestions.xdsl">
+<hash type="md5">8690faf2abdfbc4ce04d800ee52e29a6</hash>
+<size>79</size>
+<url>example-url.gov.pl/suggestions.xdsl</url>
+</file>
+<file name=".project">
+<hash type="md5">5c6c2e4c77fd323a037c801169f86363</hash>
+<size>449</size>
+<url>example-url.gov.pl/.project</url>
+</file>
+<file name="org.eclipse.jdt.core.prefs">
+<hash type="md5">cf84d7118a512c41e6ff0d8842e669e4</hash>
+<size>670</size>
+<url>example-url.gov.pl/org.eclipse.jdt.core.prefs</url>
+</file>
+<file name="org.eclipse.jdt.groovy.core.prefs">
+<hash type="md5">e2910832a09926482c8707d456a5ee22</hash>
+<size>57</size>
+<url>example-url.gov.pl/org.eclipse.jdt.groovy.core.prefs</url>
+</file>
+<file name="file2">
+<hash type="md5">f1902c615ac820c1b90eead2dcdefb69</hash>
+<size>15</size>
+<url>example-url.gov.pl/file2</url>
+</file>
+<file name="Metalink$_execute_closure1.class">
+<hash type="md5">0c7c2856141c3ed49b80e257c4346ba0</hash>
+<size>2770</size>
+<url>example-url.gov.pl/Metalink$_execute_closure1.class</url>
+</file>
+<file name="Metalink$_hash_closure2.class">
+<hash type="md5">d7a808c9809d5d0cefb736a2ffb4b842</hash>
+<size>2780</size>
+<url>example-url.gov.pl/Metalink$_hash_closure2.class</url>
+</file>
+<file name="Metalink.class">
+<hash type="md5">144a50db196fd94e14d3e964f2dbd075</hash>
+<size>8256</size>
+<url>example-url.gov.pl/Metalink.class</url>
+</file>
+<file name="file1.txt">
+<hash type="md5">61886ce4dd8ccffe32337d086a646017</hash>
+<size>11</size>
+<url>example-url.gov.pl/file1.txt</url>
+</file>
+<file name="build.xml">
+<hash type="md5">d80fe5ab516a2480402d92a02cc4e56e</hash>
+<size>1374</size>
+<url>example-url.gov.pl/build.xml</url>
+</file>
+<file name="file2">
+<hash type="md5">f1902c615ac820c1b90eead2dcdefb69</hash>
+<size>15</size>
+<url>example-url.gov.pl/file2</url>
+</file>
+<file name="Metalink$_execute_closure1.class">
+<hash type="md5">5efaa5cd7f22f38542393621c9fc79fb</hash>
+<size>2910</size>
+<url>example-url.gov.pl/Metalink$_execute_closure1.class</url>
+</file>
+<file name="Metalink$_hash_closure2.class">
+<hash type="md5">de421ed17cf899cd4e0efa21092edc7f</hash>
+<size>2905</size>
+<url>example-url.gov.pl/Metalink$_hash_closure2.class</url>
+</file>
+<file name="Metalink.class">
+<hash type="md5">cd82a597649652d18b7f9d873194f03f</hash>
+<size>8518</size>
+<url>example-url.gov.pl/Metalink.class</url>
+</file>
+<file name="file1.txt">
+<hash type="md5">61886ce4dd8ccffe32337d086a646017</hash>
+<size>11</size>
+<url>example-url.gov.pl/file1.txt</url>
+</file>
+<file name="tasks.properties">
+<hash type="md5">40343c1a08499109d5e98acd64d9132a</hash>
+<size>19</size>
+<url>example-url.gov.pl/tasks.properties</url>
+</file>
+<file name="tasks.properties">
+<hash type="md5">25b5267859ed75cb02612ab7d6f6d8e1</hash>
+<size>16</size>
+<url>example-url.gov.pl/tasks.properties</url>
+</file>
+<file name="default.properties">
+<hash type="md5">5d54e55c5770102790bc04ebf1774b5b</hash>
+<size>104</size>
+<url>example-url.gov.pl/default.properties</url>
+</file>
+<file name="ant-1.10.3.jar">
+<hash type="md5">a0fe02e5870b21bc62a035cd21abf864</hash>
+<size>2206442</size>
+<url>example-url.gov.pl/ant-1.10.3.jar</url>
+</file>
+<file name="groovy-3.0.0-alpha-1.jar">
+<hash type="md5">5e1d5928ff355ca80ce4936d7f49b7c6</hash>
+<size>5974380</size>
+<url>example-url.gov.pl/groovy-3.0.0-alpha-1.jar</url>
+</file>
+<file name="groovy-ant-3.0.0-alpha-1.jar">
+<hash type="md5">a2856aac07f770df88d1dcc3d2dfeb6d</hash>
+<size>70343</size>
+<url>example-url.gov.pl/groovy-ant-3.0.0-alpha-1.jar</url>
+</file>
+<file name="groovy-groovydoc-3.0.0-alpha-1.jar">
+<hash type="md5">7f95acf96a2516418eddfcf4a171b621</hash>
+<size>137487</size>
+<url>example-url.gov.pl/groovy-groovydoc-3.0.0-alpha-1.jar</url>
+</file>
+<file name="meta.link">
+<hash type="md5">7e10013814dde9b0015ae23b084710e5</hash>
+<size>616</size>
+<url>example-url.gov.pl/meta.link</url>
+</file>
+<file name="file2">
+<hash type="md5">f1902c615ac820c1b90eead2dcdefb69</hash>
+<size>15</size>
+<url>example-url.gov.pl/file2</url>
+</file>
+<file name="Metalink.groovy">
+<hash type="md5">321a2f90593168ccd92b646fe6e02115</hash>
+<size>2748</size>
+<url>example-url.gov.pl/Metalink.groovy</url>
+</file>
+<file name="file1.txt">
+<hash type="md5">61886ce4dd8ccffe32337d086a646017</hash>
+<size>11</size>
+<url>example-url.gov.pl/file1.txt</url>
+</file>
+</metalink>
